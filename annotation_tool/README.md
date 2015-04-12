@@ -17,7 +17,8 @@ The image extensions supported are those supported by OpenCV 2.4.11. When in dou
 Double-click a spot on the image to create a point.
 The quad will be created when the 4th point is on the screen.
 Upon the quad creation, you will be asked to enter it's name, in our case, the plate number.
+
 To select a quad, click in one of its points.
 Once a quad is selected, you can reshape it by clicking and dragging its points.
-You can also delete a selected quad by pressing "BACKSPACE"
+You can also delete a selected quad by pressing "BACKSPACE".
 Press "Enter" to save the annotation or "ESC" to discard your work.
